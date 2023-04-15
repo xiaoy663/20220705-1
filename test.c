@@ -3,7 +3,15 @@
 int main(void)
 {
 
-	printf("hello world");
+	printf("hello rld");
+
+	printf("hel world");
+	printf("helo world");
+	printf("llo world");
+	printf("lo world");
+
+
+
 
 	return 0;
 }
